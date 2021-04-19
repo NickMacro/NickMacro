@@ -1,4 +1,4 @@
-Hello, I'm an aspiring data scientist! I have a physics PhD graduate from The Ohio State University.
+Hello, I'm an aspiring data scientist with a physics PhD graduate from The Ohio State University.
 
 # Current Projects
 * Attending the Spring 2021 Data Science Bootcamp at the Erdős Institute.
